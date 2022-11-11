@@ -6,10 +6,29 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const categories = require('./data/category.json');
+const courses = require('./data/courses.json');
 
 app.get('/categories', (req, res) => {
   res.send(categories)
 })
+
+app.get('/category/:id', (req, res) => {
+  const id = req.params.id;
+  if (id === '07') {
+    res.send(courses)
+  }
+  else {
+    const selectedCategory = courses.filter(category => category.category_id === id)
+    res.send(selectedCategory)
+  }
+})
+
+app.get('/course/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courses.find(course => course._id === id)
+  res.send(selectedCourse)
+})
+
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
