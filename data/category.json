@@ -1,26 +1,30 @@
 [
     {
-        "id": "01cgd1",
+        "id": "01",
         "name": "Graphics Design"
     },
     {
-        "id": "02cdm2",
+        "id": "02",
         "name": "Digital Marketing"
     },
     {
-        "id": "03cwd3",
+        "id": "03",
         "name": "Web Development"
     },
     {
-        "id": "04cve4",
+        "id": "04",
         "name": "Video Editing"
     },
     {
-        "id": "05cwtc5",
+        "id": "05",
         "name": "Wordpress Theme Customization"
     },
     {
-        "id": "06cad6",
+        "id": "06",
         "name": "App Development"
+    },
+    {
+        "id": "06",
+        "name": "All News"
     }
 ]
