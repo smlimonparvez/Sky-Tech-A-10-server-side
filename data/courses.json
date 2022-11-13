@@ -6,7 +6,7 @@
         "image_url": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg",
         "details": "If you're a beginner, you'll love this course because it's aimed at novice graphic designers and allows you to work at your own pace of learning. As the entire course comprises seven sessions and you're expected to put around six hours of work into each lesson, you can plan to invest at least 40 hours in this course.",
         "price": "3500 TK",
-        "Time": "20 hours"
+        "time": "20 hours"
     },
     {
         "_id": "01cgd12",
@@ -15,7 +15,7 @@
         "image_url": "https://www.digitaleduschool.com/wp-content/uploads/2021/08/What-will-you-learn-in-the-Graphic-Design-Course-at-Digital-Education-School-1.png",
         "details": "The course consists of 16 lessons that will show you how to create a logo and teach you to interact with customers appropriately. This shorter class also guides you through preparing and building a branded logo, which directly connects with brand identity. Even if you're not doing client work yet and just starting up your design business, these lessons will help you create your own personal logo to start your brand and attract customers.",
         "price": "2000 TK",
-        "Time": "10 hours"
+        "time": "10 hours"
     },
     {
         "_id": "01cgd13",
@@ -24,7 +24,7 @@
         "image_url": "https://adanitcenter.com/wp-content/uploads/2022/09/ui-ux-design-company-in-bangalore.png",
         "details": "Sky Tech is a platform that offers a variety of design-centric courses, from basic 4-week courses covering fundamentals to a full- or part-time UX Academy path that covers everything you need to prepare for a career in UX/UI. In addition to live instruction and mentorship, DesignLab provides career support via a personal coach who helps new designers land their first job.",
         "price": "8000 TK",
-        "Time": "30 hours"
+        "time": "30 hours"
     },
     {
         "_id": "01cgd14",
@@ -33,7 +33,7 @@
         "image_url": "https://cdn.archilovers.com/projects/916f156a-3804-4cbd-88f0-a7c8c3e04c9e.png",
         "details": " You must’ve heard the term digital marketing here and there. It has become a buzzword recently. And why wouldn’t it? Digital marketing has evolved drastically with time. And the internet has expanded considerably too. As a digital marketer, you’ll have to promote businesses over the internet. All the online ads you see, the content you read, and the images you see online are in one way or another related to the work of a digital marketer. Just like this, we’ll be discovering a few other reasons as to why digital marketing career choices are great for you.",
         "price": "5000 TK",
-        "Time": "50 hours"
+        "time": "50 hours"
     },
     {
         "_id": "01cgd15",
@@ -42,7 +42,7 @@
         "image_url": "https://www.upgrad.com/blog/wp-content/uploads/2019/11/shutterstock_570194635.jpg",
         "details": "Google receives around 60,000 searches per second every day. People search on these platforms to get answers. And with the help of SEO, you can make sure that when they search for something related to your website, they find it. Businesses are focusing on SEO to get more traffic for their websites. If your audience is huge, then you can have more customers as well. SEO depends on multiple factors such as the loading speed of the website, keyword optimization, etc. As an SEO manager, you will have to identify the reasons why your website is performing poorly SEO-wise and fix the same.",
         "price": "2500 TK",
-        "Time": "25 hours"
+        "time": "25 hours"
     },
     {
         "_id": "01cgd16",
@@ -51,7 +51,7 @@
         "image_url": "https://courses.wscubetech.com/s/store/courses/606b158f0cf2ff7130547e44/cover.jpg?v=2",
         "details": "A front end developer, also known as a front end web developer, is a professional responsible for the design and implementation of the interface. The users require this interface so that they can access the application in question. A web designer is a professional who creates a website’s appearance and design. And the front end developer makes sure that the design works online by using coding languages such as CSS, HTML, and JavaScript.",
         "price": "5500 TK",
-        "Time": "100 hours"
+        "time": "100 hours"
     },
     {
         "_id": "01cgd17",
@@ -60,7 +60,7 @@
         "image_url": "https://i.pinimg.com/736x/37/94/b3/3794b323fef40149d3bc69c86ac8c332.jpg",
         "details": "Backend developers are primarily focused on how a website works. They write code that focuses on the functionality and logic powering the application they’re working on, and the technology they work on is never directly seen by users. Responsibilities of backend programmers could involve writing APIs, writing code to interact with a database, creating libraries, working on business processes and data architecture, and much more. The exact duties of a back end web developer often depend on the specific role and company.",
         "price": "1000 TK",
-        "Time": "200 hours"
+        "time": "200 hours"
     },
     {
         "_id": "01cgd18",
@@ -69,7 +69,7 @@
         "image_url": "https://images.ctfassets.net/3s5io6mnxfqz/2A45aWQEz4TZ1M7aY9za0t/146bcc86770a636acfb51ef3ac94f868/AdobeStock_346156119.jpeg",
         "details": "Video editing is important because it is the key to blending images and sounds to make us feel emotionally connected and sometimes truly there in the film we’re watching. It’s a safe assumption to say that video editing is among the most important jobs in the film industry. With professional video editing you can create an emotion-evoking masterpiece, and it can make or break your film, which is why it’s just as important to choose the right video editor as it is to choose the right camera equipment.",
         "price": "5500 TK",
-        "Time": "15 hours"
+        "time": "15 hours"
     },
     {
         "_id": "01cgd19",
@@ -78,7 +78,7 @@
         "image_url": "https://wordathemes.com/wp-content/uploads/2019/09/wordpress-customization.png",
         "details": "WordPress is one of the most renowned open-source content management systems which allows the user to easily design and develop the website with the help of its powerful tools for professional publishing. The tools it offers can be very useful when you wish to customize your WordPress website. Make your site look more attractive without compromising on the loading speed or SEO results with the help of WordPress Customization.",
         "price": "5500 TK",
-        "Time": "10 hours"
+        "time": "10 hours"
     },
     {
         "_id": "01cgd20",
@@ -87,6 +87,6 @@
         "image_url": "https://www.bairesdev.com/wp-content/uploads/2022/01/programming-languages-1-1024x683.jpg",
         "details": "Android is a platform that is easier to master for developers having varying skill levels. Mobile app development services can utilize Android with much greater ease than any other platform. Android uses Java which is a programming language that most developers are intimately familiar with. In case of iOS applications, one has to pick up Objective-C or Swift, Apple’s development language. Both the languages are useful for only those developing iOS apps. For Android app development, you do not need to hire scarce, expensive talents having specific technical experience for a good number of years.",
         "price": "5500 TK",
-        "Time": "150 hours"
+        "time": "150 hours"
     }
 ]
